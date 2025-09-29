@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/mvp.css">
+  </head>
+  <body>
+      <h1>Student Info Form</h1>
+  <form id="student-form">
+    <label for="name">Full Name:</label>
+    <input type="text" name="name" required>
+
+    <label for="email">Email:</label>
+    <input type="email" name="email" required>
+
+    <label for="color">Favorite Color:</label>
+    <input type="color" name="color">
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    const form = document.getElementById('student-form');
+    form.addEventListener('submit', function(event) {
+      event.preventDefault();
+      const formData = new FormData(form);
+      const jsonObject = Object.fromEntries(formData.entries());
+      console.log("Form Data as JSON:", jsonObject);
+    });
+  </script>
+  </body>
+</html>

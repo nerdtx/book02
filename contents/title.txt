@@ -1,0 +1,10 @@
+---
+title: Foundations for CompSci - Book 2
+subtitle: Python, Databases, and APIs
+author: Jeremy Kelley
+titlepage: true
+titlepage-color: F0F9FC
+titlepage-logo: imgs/nerdtx.png
+logo-width: 90mm
+titlepage-rule-color: 80a0a0
+...
