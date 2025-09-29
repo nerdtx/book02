@@ -1,6 +1,6 @@
-# book 1
+# book 2
 
-**Foundations of CompSci - Python, APIs, and Databases**
+**Foundations of CompSci - Python, Databases, and APIs**
 
 ```
                     _ _
