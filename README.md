@@ -12,7 +12,7 @@
 
 ## intention
 
-This textbook is the first of several targeting high school students and is
+This textbook is the second in a series targeting high school students and is
 intended to provide a foundation for software engineering.
 
 ## creating pdf textbook
