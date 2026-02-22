@@ -1,6 +1,6 @@
 # book 2
 
-**Foundations of CompSci - Python, Databases, and APIs**
+**Foundations for Software Engineering - Python, Databases, and APIs**
 
 ```
                     _ _
