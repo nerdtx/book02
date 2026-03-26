@@ -1,6 +1,6 @@
 \newpage
 
-## Chapter 11 Homework - Classes, Inheritance, and Composition
+## Homework Assignment: Classes, Inheritance, and Composition
 
 ### Overview:
 

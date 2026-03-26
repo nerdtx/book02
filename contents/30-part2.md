@@ -1,6 +1,6 @@
 \newpage
 
-# Part 2 - Actually writing code a little better
+# Part 2: Actually Writing Code a Little Better
 
 **Computing Pioneer: Guido van Rossum**
 
@@ -11,11 +11,9 @@
 In the late 1980s, Guido van Rossum began designing Python to be simple,
 readable, and powerful. Unlike many languages of the time, Python emphasized
 clarity and "getting things done" with minimal code. Today, Python powers web
-apps, data science, automation, machine learning, and more — and it's the
-language you’ll use to build the backend of your own web applications.
+apps, data science, automation, and machine learning. It’s also the language
+you’ll use to build the backend of your own web applications.
 
-Overview:
-
-This part introduces the foundational building blocks of Python. You'll learn
-how Python syntax is structured and how to begin writing short, meaningful
-programs.
+This part covers Python syntax, variables, strings, numbers, booleans, and
+how to read error messages. By the end, you'll be writing short Python programs
+from scratch.

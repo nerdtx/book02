@@ -1,7 +1,6 @@
-
 \newpage
 
-# Part 1 - Tell A Computer What To Think
+# Part 1: Tell a Computer What to Think
 
 In this area of the book, we're going to begin experimenting with giving
 programmatic instructions to a computer.

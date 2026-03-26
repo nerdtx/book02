@@ -1,3 +1,5 @@
+\newpage
+
 ## Section 10: Homework Assignment – Data Transformation Challenge
 
 This assignment brings together all the advanced Python tools you’ve learned in
@@ -124,4 +126,3 @@ used here are used in:
 * Backend services
 
 Master these patterns, and you’ll write faster, cleaner, and more professional Python code.
-

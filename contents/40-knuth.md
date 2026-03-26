@@ -1,3 +1,4 @@
+\newpage
 
 # Computing Pioneer: Donald Knuth
 
@@ -10,7 +11,5 @@ algorithm analysis
 Donald Knuth revolutionized how we understand computation. His multivolume work
 on algorithms and programming techniques helped shape modern software
 engineering. Understanding data structures and how to organize logic with
-functions is central to building reliable, efficient programs — exactly what
-you'll be learning in this chapter.
-
-
+functions is central to building reliable, efficient programs. That's exactly
+what this chapter is about.
