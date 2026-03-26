@@ -65,7 +65,7 @@ planes = [
 
 ---
 
-## ⚙️ Part 5 – Combining Techniques
+## Part 5 – Combining Techniques
 
 1. Create a sorted list of airplane names where:
 
